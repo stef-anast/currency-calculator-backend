@@ -2,6 +2,8 @@
 
 A production-ready Node.js application built with TypeScript that provides a secure REST API for currency conversion and exchange rate management.
 
+> **Note:** This project is the successor to the original [Currency Calculator Backend](https://github.com/stefanast/currency-calculator-backend).
+
 ## Features
 
 - **Secure Authentication** - JWT-based auth with persistent refresh tokens
